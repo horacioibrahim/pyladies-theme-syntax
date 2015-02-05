@@ -1,0 +1,11 @@
+{
+  "name": "pyladies-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A python's sintax for girls and ladies",
+  "repository": "https://github.com/atom/pyladies-theme-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
